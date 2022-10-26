@@ -11,7 +11,7 @@
 
     <?php
     echo"<h1>";
-    echo date('d-m-y');
+    echo"HOLA SOY PHP";
     ?>
 
 </body>
